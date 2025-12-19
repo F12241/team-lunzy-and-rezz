@@ -1,5 +1,5 @@
 module.exports = {
-  API_KEYS: ['adminv'],
+  API_KEYS: ['admin1'],
   SMTP_HOST: 'smtp.gmail.com',
   SMTP_PORT: 465,
   SMTP_SECURE: true,
